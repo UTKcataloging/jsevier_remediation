@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      version="3.5"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000543_000203</identifier>
+   <titleInfo>
+      <title>Letter, Hamilton All Washington County 1789</title>
+   </titleInfo>
+   <abstract>Complaint of John Tadlock against Valentine Sevier. Signed Hamilton All. Relates to problems over the transfer of some notes. Contains clerk's notations.</abstract>
+   <originInfo>
+      <dateCreated>1789</dateCreated>
+      <dateCreated encoding="edtf">1789</dateCreated>
+   </originInfo>
+   <name type="personal">
+      <namePart>All, Hamilton</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+            authorityURI="http://id.loc.gov/vocabulary/relators/crp">Correspondent</roleTerm>
+      </role>
+   </name>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (documents)</form>
+   </physicalDescription>
+   <location>
+      <physicalLocation>University of Tennessee Knoxville. Special Collections</physicalLocation>
+   </location>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordCreationDate>2020-04-23-04:00</recordCreationDate>
+      <recordOrigin>This MODS record was generated into MODS v3.5 from the TEI teiHeader by University of Tennessee Libraries Digital Initiatives, using a stylesheet available at https://github.com/utkdigitalinitiatives/tei-to-mods.</recordOrigin>
+   </recordInfo>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>John Sevier Papers</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John Sevier Collection</title>
+      </titleInfo>
+      <identifier>MS.1941</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
